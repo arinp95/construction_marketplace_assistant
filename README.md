@@ -131,14 +131,7 @@ GEMINI_MODEL=gemini-2.5-flash
 ```bash
 streamlit run app.py
 ```
-
 ---
-
-### Chat Interface
-<img width="1226" height="911" alt="construction-marketplace-assistant streamlit app_" src="https://github.com/user-attachments/assets/60b4029a-b19d-493e-b6c2-3d418fea159e" />
-
----
-
 ## Example question
 
 > What factors affect construction project delays?
@@ -146,6 +139,11 @@ streamlit run app.py
 The app shows:
 - Retrieved chunks (with source + score)  
 - A grounded answer based only on those chunks  
+
+---
+
+### Chat Interface
+<img width="1226" height="911" alt="construction-marketplace-assistant streamlit app_" src="https://github.com/user-attachments/assets/60b4029a-b19d-493e-b6c2-3d418fea159e" />
 
 ---
 
